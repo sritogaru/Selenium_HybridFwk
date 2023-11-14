@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T00:07:21Z" name="demowebshopSuite" finished-at="2023-11-14T00:07:43Z" duration-ms="22056">
+    <groups>
+      <group name="Regression">
+        <method signature="AccountRegistration.UserReg()[pri:1, instance:testClass.AccountRegistration@20f5281c]" name="UserReg" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@20f5281c]" name="ordernumandlogout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.paymentcheckout()[pri:4, instance:testClass.AccountRegistration@20f5281c]" name="paymentcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@20f5281c]" name="shoppingcartcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@20f5281c]" name="shoppingcontinue" class="testClass.AccountRegistration"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="AccountRegistration.UserReg()[pri:1, instance:testClass.AccountRegistration@20f5281c]" name="UserReg" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@20f5281c]" name="ordernumandlogout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.paymentcheckout()[pri:4, instance:testClass.AccountRegistration@20f5281c]" name="paymentcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@20f5281c]" name="shoppingcartcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@20f5281c]" name="shoppingcontinue" class="testClass.AccountRegistration"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-11-14T00:07:21Z" name="userRegandshoppingTest" finished-at="2023-11-14T00:07:43Z" duration-ms="22056">
+      <class name="testClass.AccountRegistration">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:21Z" name="setup" finished-at="2023-11-14T00:07:26Z" duration-ms="4622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UserReg()[pri:1, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:26Z" name="UserReg" finished-at="2023-11-14T00:07:29Z" duration-ms="3004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserReg -->
+        <test-method signature="shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:29Z" name="shoppingcontinue" finished-at="2023-11-14T00:07:33Z" duration-ms="3709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingcontinue -->
+        <test-method signature="shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:33Z" name="shoppingcartcheckout" finished-at="2023-11-14T00:07:35Z" duration-ms="2707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingcartcheckout -->
+        <test-method signature="paymentcheckout()[pri:4, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:35Z" name="paymentcheckout" finished-at="2023-11-14T00:07:42Z" duration-ms="6557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentcheckout -->
+        <test-method signature="ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:42Z" name="ordernumandlogout" finished-at="2023-11-14T00:07:43Z" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordernumandlogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClass.AccountRegistration@20f5281c]" started-at="2023-11-14T00:07:43Z" name="teardown" finished-at="2023-11-14T00:07:43Z" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClass.AccountRegistration -->
+    </test> <!-- userRegandshoppingTest -->
+  </suite> <!-- demowebshopSuite -->
+</testng-results>

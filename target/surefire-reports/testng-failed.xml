@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [demowebshopSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportUtility"/>
+  </listeners>
+  <test thread-count="5" name="userRegandshoppingTest(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Regression"/>
+        <include name="Sanity"/>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testClass.AccountRegistration">
+        <methods>
+          <include name="paymentcheckout"/>
+          <include name="setup"/>
+          <include name="ordernumandlogout"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testClass.AccountRegistration -->
+    </classes>
+  </test> <!-- userRegandshoppingTest(failed) -->
+</suite> <!-- Failed suite [demowebshopSuite] -->

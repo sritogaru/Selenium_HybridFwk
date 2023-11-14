@@ -1,0 +1,175 @@
+18:26:21.808 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+18:26:26.460 [main] INFO  testClass.AccountRegistration - User Registered
+18:26:34.567 [main] INFO  testClass.AccountRegistration - Provided user details
+18:26:38.620 [main] INFO  testClass.AccountRegistration - User entered card details
+18:26:41.599 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+18:26:43.538 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+18:26:47.474 [main] INFO  testClass.Loginuser - *** start user login process ***
+18:26:48.334 [main] INFO  testClass.Loginuser - User logged in successfully
+18:27:51.565 [main] INFO  testClass.Loginuser - *** start user login process ***
+18:27:53.731 [main] INFO  testClass.Loginuser - User logged in successfully
+19:19:46.591 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:19:48.452 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:20:02.787 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:20:06.394 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:20:20.904 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:20:22.080 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:20:24.699 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+19:20:24.702 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:20:25.748 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:20:28.442 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+19:24:20.876 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:24:23.024 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:24:37.097 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:24:39.287 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:24:53.655 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:24:54.808 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:25:07.588 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:25:08.773 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:27:43.700 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:27:45.297 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:27:59.757 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:28:01.152 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:28:15.691 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:28:16.876 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+19:28:29.799 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+19:28:30.783 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:11:46.024 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:11:47.692 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:11:51.500 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:11:53.054 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:11:57.087 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:11:58.132 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:12:10.954 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:12:12.189 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:20:51.948 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:20:53.549 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:20:56.987 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:20:57.015 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:20:58.409 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:21:01.889 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:21:01.896 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:21:02.950 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:21:15.767 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:21:16.871 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:23:24.012 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:23:25.680 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:23:29.211 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:23:29.233 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:23:30.775 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:23:34.309 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:23:34.314 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:23:35.411 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:23:48.473 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:23:49.805 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:25:11.645 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:25:13.395 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:25:16.962 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:25:16.993 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:25:18.469 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:25:22.159 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:25:22.162 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:25:23.473 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:25:36.072 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:25:36.075 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:25:37.263 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:25:49.820 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:33:00.344 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:33:01.882 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:33:03.222 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:33:03.247 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:33:04.626 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:33:05.927 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:33:05.932 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:33:06.994 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:33:17.616 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:33:17.620 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:33:18.643 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:33:29.269 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:36:21.965 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:36:23.552 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:36:24.955 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:36:24.978 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:36:26.420 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:36:27.775 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:36:27.780 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:36:28.804 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:36:29.538 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:36:30.626 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:37:11.760 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:37:13.333 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:37:15.255 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:37:15.280 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:37:16.790 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:37:18.264 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:37:18.268 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:37:19.322 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:37:20.157 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:37:21.235 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:39:23.206 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:39:24.752 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:39:26.128 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:39:26.151 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:39:27.568 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:39:28.969 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:39:28.975 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:39:29.984 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:39:30.753 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:39:31.851 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:40:52.589 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:40:54.136 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:40:55.703 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:40:57.115 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:40:58.606 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:40:59.644 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:41:00.392 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:41:01.433 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:42:05.935 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:42:07.524 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:42:08.874 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:42:08.901 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:42:10.316 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:42:11.687 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:42:11.690 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:42:12.764 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:42:13.542 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:42:14.654 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:43:25.815 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:43:27.359 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:43:29.091 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:43:29.121 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:43:30.559 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:43:31.899 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:43:31.902 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:43:32.927 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:43:33.601 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+13:43:33.603 [main] INFO  testClass.LoginDataDrivenTesting - *** start user login process ***
+13:43:34.757 [main] INFO  testClass.LoginDataDrivenTesting - User logging started successfully
+13:43:35.325 [main] INFO  testClass.LoginDataDrivenTesting - Data Driven Tests completed successfully
+18:16:58.618 [main] INFO  testClass.Loginuser - *** start user login process ***
+18:17:00.542 [main] INFO  testClass.Loginuser - User logged in successfully
+18:18:17.292 [main] INFO  testClass.Loginuser - *** start user login process ***
+18:18:18.915 [main] INFO  testClass.Loginuser - User logged in successfully
+18:23:18.878 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+18:23:22.133 [main] INFO  testClass.AccountRegistration - User Registered
+18:24:03.443 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+18:24:05.854 [main] INFO  testClass.AccountRegistration - User Registered
+18:24:12.205 [main] INFO  testClass.AccountRegistration - Provided user details
+18:24:15.820 [main] INFO  testClass.AccountRegistration - User entered card details
+18:24:18.541 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+18:24:19.532 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+18:55:53.950 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+18:55:56.076 [main] INFO  testClass.AccountRegistration - User Registered
+18:56:02.521 [main] INFO  testClass.AccountRegistration - Provided user details
+18:56:46.889 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+18:56:49.630 [main] INFO  testClass.AccountRegistration - User Registered
+18:56:55.606 [main] INFO  testClass.AccountRegistration - Provided user details
+18:56:59.191 [main] INFO  testClass.AccountRegistration - User entered card details
+18:57:01.868 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+18:57:02.898 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+19:07:26.388 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+19:07:29.378 [main] INFO  testClass.AccountRegistration - User Registered
+19:07:35.809 [main] INFO  testClass.AccountRegistration - Provided user details
+19:07:39.718 [main] INFO  testClass.AccountRegistration - User entered card details
+19:07:42.367 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+19:07:43.319 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
