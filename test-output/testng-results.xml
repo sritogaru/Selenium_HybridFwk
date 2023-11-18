@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-13T13:43:20 EST" name="demowebshopSuite" finished-at="2023-11-13T13:43:35 EST" duration-ms="15370">
+  <suite started-at="2023-11-17T22:04:03 EST" name="demowebshopSuite" finished-at="2023-11-17T22:04:33 EST" duration-ms="30015">
     <groups>
+      <group name="Sanity">
+        <method signature="Loginuser.loginuser()[pri:0, instance:testClass.Loginuser@47e2e487]" name="loginuser" class="testClass.Loginuser"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="AccountRegistration.UserReg()[pri:1, instance:testClass.AccountRegistration@290222c1]" name="UserReg" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@290222c1]" name="ordernumandlogout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.paymentcheckout()[pri:4, instance:testClass.AccountRegistration@290222c1]" name="paymentcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@290222c1]" name="shoppingcartcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@290222c1]" name="shoppingcontinue" class="testClass.AccountRegistration"/>
+        <method signature="Loginuser.loginuser()[pri:0, instance:testClass.Loginuser@47e2e487]" name="loginuser" class="testClass.Loginuser"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="AccountRegistration.UserReg()[pri:1, instance:testClass.AccountRegistration@290222c1]" name="UserReg" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@290222c1]" name="ordernumandlogout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.paymentcheckout()[pri:4, instance:testClass.AccountRegistration@290222c1]" name="paymentcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@290222c1]" name="shoppingcartcheckout" class="testClass.AccountRegistration"/>
+        <method signature="AccountRegistration.shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@290222c1]" name="shoppingcontinue" class="testClass.AccountRegistration"/>
+      </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-11-13T13:43:20 EST" name="userRegandshoppingTest" finished-at="2023-11-13T13:43:35 EST" duration-ms="15370">
-      <class name="testClass.LoginDataDrivenTesting">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:20 EST" name="setup" finished-at="2023-11-13T13:43:24 EST" duration-ms="4391" status="PASS">
+    <test started-at="2023-11-17T22:04:03 EST" name="userRegandshoppingTest" finished-at="2023-11-17T22:04:33 EST" duration-ms="30015">
+      <class name="testClass.AccountRegistration">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:03 EST" name="setup" finished-at="2023-11-17T22:04:08 EST" duration-ms="5168" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,95 +36,52 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logindatadriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:25 EST" name="logindatadriven" data-provider="DataDriven" finished-at="2023-11-13T13:43:29 EST" duration-ms="3288" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[sriven@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="UserReg()[pri:1, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:08 EST" name="UserReg" finished-at="2023-11-17T22:04:11 EST" duration-ms="2208" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:29 EST" name="logindatadriven" data-provider="DataDriven" finished-at="2023-11-13T13:43:31 EST" duration-ms="2779" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[venkateshs@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@1234]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- UserReg -->
+        <test-method signature="shoppingcontinue()[pri:2, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:11 EST" name="shoppingcontinue" finished-at="2023-11-17T22:04:14 EST" duration-ms="3457" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:31 EST" name="logindatadriven" data-provider="DataDriven" finished-at="2023-11-13T13:43:33 EST" duration-ms="1700" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[togaruharsha@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@12]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- shoppingcontinue -->
+        <test-method signature="shoppingcartcheckout()[pri:3, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:14 EST" name="shoppingcartcheckout" finished-at="2023-11-17T22:04:18 EST" duration-ms="3395" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:33 EST" name="logindatadriven" data-provider="DataDriven" finished-at="2023-11-13T13:43:35 EST" duration-ms="1723" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[srisai99@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@02]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- shoppingcartcheckout -->
+        <test-method signature="paymentcheckout()[pri:4, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:18 EST" name="paymentcheckout" finished-at="2023-11-17T22:04:24 EST" duration-ms="6227" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logindatadriven -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testClass.LoginDataDrivenTesting@ffaa6af]" started-at="2023-11-13T13:43:35 EST" name="teardown" finished-at="2023-11-13T13:43:35 EST" duration-ms="145" status="PASS">
+        </test-method> <!-- paymentcheckout -->
+        <test-method signature="ordernumandlogout()[pri:5, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:24 EST" name="ordernumandlogout" finished-at="2023-11-17T22:04:25 EST" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordernumandlogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClass.AccountRegistration@290222c1]" started-at="2023-11-17T22:04:25 EST" name="teardown" finished-at="2023-11-17T22:04:25 EST" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testClass.LoginDataDrivenTesting -->
+      </class> <!-- testClass.AccountRegistration -->
+      <class name="testClass.Loginuser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testClass.Loginuser@47e2e487]" started-at="2023-11-17T22:04:25 EST" name="setup" finished-at="2023-11-17T22:04:29 EST" duration-ms="4384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginuser()[pri:0, instance:testClass.Loginuser@47e2e487]" started-at="2023-11-17T22:04:29 EST" name="loginuser" finished-at="2023-11-17T22:04:33 EST" duration-ms="3341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClass.Loginuser@47e2e487]" started-at="2023-11-17T22:04:33 EST" name="teardown" finished-at="2023-11-17T22:04:33 EST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClass.Loginuser -->
     </test> <!-- userRegandshoppingTest -->
   </suite> <!-- demowebshopSuite -->
 </testng-results>

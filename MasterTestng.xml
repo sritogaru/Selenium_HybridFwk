@@ -14,8 +14,9 @@
 		  </run>
 	  </groups>
     <classes>
+	  <class name="testClass.Loginuser"/>
       <class name="testClass.AccountRegistration"/>
-      <!--<class name="testClass.Loginuser"/>-->
+     
     </classes>
   </test> <!-- userRegandshoppingTest -->
 </suite> <!-- demowebshopSuite -->

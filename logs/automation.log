@@ -173,3 +173,33 @@
 19:07:39.718 [main] INFO  testClass.AccountRegistration - User entered card details
 19:07:42.367 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
 19:07:43.319 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+22:03:33.162 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+22:03:35.956 [main] INFO  testClass.AccountRegistration - User Registered
+22:03:52.243 [main] INFO  testClass.Loginuser - *** start user login process ***
+22:03:53.861 [main] INFO  testClass.Loginuser - User logged in successfully
+22:04:09.010 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+22:04:11.201 [main] INFO  testClass.AccountRegistration - User Registered
+22:04:18.079 [main] INFO  testClass.AccountRegistration - Provided user details
+22:04:21.627 [main] INFO  testClass.AccountRegistration - User entered card details
+22:04:24.308 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+22:04:25.360 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+22:04:29.939 [main] INFO  testClass.Loginuser - *** start user login process ***
+22:04:32.367 [main] INFO  testClass.Loginuser - User logged in successfully
+22:25:47.964 [main] INFO  testClass.Loginuser - *** start user login process ***
+22:25:49.544 [main] INFO  testClass.Loginuser - User logged in successfully
+16:27:01.189 [main] INFO  testClass.Loginuser - *** start user login process ***
+16:27:02.710 [main] INFO  testClass.Loginuser - User logged in successfully
+16:27:07.224 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+16:27:09.340 [main] INFO  testClass.AccountRegistration - User Registered
+16:27:16.258 [main] INFO  testClass.AccountRegistration - Provided user details
+16:27:19.795 [main] INFO  testClass.AccountRegistration - User entered card details
+16:27:22.485 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+16:27:23.357 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***
+16:28:26.087 [main] INFO  testClass.Loginuser - *** start user login process ***
+16:28:27.572 [main] INFO  testClass.Loginuser - User logged in successfully
+16:28:32.182 [main] INFO  testClass.AccountRegistration -  *** started User Registration and shopping process *** 
+16:28:34.300 [main] INFO  testClass.AccountRegistration - User Registered
+16:28:40.472 [main] INFO  testClass.AccountRegistration - Provided user details
+16:28:43.828 [main] INFO  testClass.AccountRegistration - User entered card details
+16:28:46.463 [main] INFO  testClass.AccountRegistration - confirmed order and captured order number in screenshot
+16:28:47.407 [main] INFO  testClass.AccountRegistration - *** Finished shopping process and signed off ***

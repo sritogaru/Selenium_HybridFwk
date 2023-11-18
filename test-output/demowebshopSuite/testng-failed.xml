@@ -6,14 +6,23 @@
   </listeners>
   <test thread-count="5" name="userRegandshoppingTest(failed)">
     <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Regression"/>
+        <include name="Sanity"/>
+        <include name="Smoke"/>
+      </run>
+    </groups>
     <classes>
-      <class name="testClass.LoginDataDrivenTesting">
+      <class name="testClass.AccountRegistration">
         <methods>
           <include name="teardown"/>
-          <include name="logindatadriven" invocation-numbers="2 3"/>
+          <include name="ordernumandlogout"/>
+          <include name="paymentcheckout"/>
+          <include name="shoppingcartcheckout"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testClass.LoginDataDrivenTesting -->
+      </class> <!-- testClass.AccountRegistration -->
     </classes>
   </test> <!-- userRegandshoppingTest(failed) -->
 </suite> <!-- Failed suite [demowebshopSuite] -->
